@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: sans-serif;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.more_button {
+  height: 50px;
+  display: inline-block;
+  width: 250px;
+  text-align: center;
+}

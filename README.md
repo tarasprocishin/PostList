@@ -1,2 +1,0 @@
-# PostList
-Created with CodeSandbox
